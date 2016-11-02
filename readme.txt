@@ -8,3 +8,5 @@ Git add
 jiofwe
 
 xiugai 
+
+Creating a new branch is quick.
